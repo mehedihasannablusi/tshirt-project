@@ -1,0 +1,9 @@
+.remove{
+    padding: 5px;
+    margin-left: 10px;
+    border: 1px solid rgb(122, 19, 225);
+    background-color: rgb(185, 135, 236);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
